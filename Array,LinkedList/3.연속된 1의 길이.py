@@ -1,6 +1,7 @@
 def solution(nums):
     answer = 0
     cnt = 0
+    test = 0
     for x in nums:
         if x == 1 : 
             cnt +=1
